@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Shortcutter</string>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Abbrechen</string>
     <string name="Autosync">Auto Sync</string>
     <string name="LocationMode">Location Mode</string>
     <string name="HeadsUp">Heads Up</string>
