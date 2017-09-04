@@ -140,8 +140,8 @@
     <string name="by_leedroid">Entwickelt von LeeDrOiD</string>
     <string name="welcome_to_shortcutter">Willkommen zu</string>
     <string name="Immersive">Vollbildmodus</string>
-    <string name="manual_secure_summary">Grant Shortcutter access to Settings Secure to enable additional Tiles.
-        \n(A PC is required)</string>
+    <string name="manual_secure_summary">Gewährt Shortcutter Zugriff auf Sicherheitseinstellungen, um zusätzliche Kacheln zu aktivieren.
+        \n(Ein PC wird benötigt)</string>
     <string name="secure_access_enabled">Secure Access Enabled</string>
     <string name="secure_access">Settings Secure Access</string>
     <string name="action_required">Action Required</string>
