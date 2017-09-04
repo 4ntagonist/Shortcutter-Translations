@@ -48,61 +48,61 @@
     <string name="CustomTile11">Benutzerdef. App 11</string>
     <string name="CustomTile12">Benutzerdef. App 12</string>
     <string name="EnterUrl">Eingabe benutzerdef. URL</string>
-    <string name="CustomUrl1">Custom URL 1</string>
-    <string name="CustomUrl2">Custom URL 2</string>
-    <string name="CustomUrl3">Custom URL 3</string>
-    <string name="CustomUrl4">Custom URL 4</string>
-    <string name="RebootRecovery">Reboot Recovery</string>
-    <string name="Reboot">Reboot</string>
-    <string name="enter_the_url">Enter the URL you wish to assign to this QS Tile.</string>
-    <string name="save">Save</string>
-    <string name="Caffeinie">Screen Wake</string>
-    <string name="RingMode">Ring Mode</string>
-    <string name="Screen_timeout">Screen Timeout</string>
-    <string name="alarm_tile">Next Alarm</string>
-    <string name="wake_stopped">Screen Wake Off</string>
-    <string name="wake_started">Screen Wake On</string>
-    <string name="need_dnd">No Permissions, please allow shortcutter to override DND</string>
-    <string name="next_alarm">Next Alarm
+    <string name="CustomUrl1">Benutzerdef. URL 1</string>
+    <string name="CustomUrl2">Benutzerdef. URL 2</string>
+    <string name="CustomUrl3">Benutzerdef. URL 3</string>
+    <string name="CustomUrl4">Benutzerdef. URL 4</string>
+    <string name="RebootRecovery">Recovery neu starten</string>
+    <string name="Reboot">Neu starten</string>
+    <string name="enter_the_url">Gib die URL ein, die du dieser QS-Kachel zuordnen möchtest.</string>
+    <string name="save">Speichern</string>
+    <string name="Caffeinie">Bildschirm aufwachen</string>
+	<string name="RingMode">Klingelmodus</string>
+    <string name="Screen_timeout">Bildschirm Auszeit</string>
+    <string name="alarm_tile">Nächster Alarm</string>
+    <string name="wake_stopped">Aufwachen gestoppt</string>
+    <string name="wake_started">Aufwachen gestartet</string>
+    <string name="need_dnd">Keine Berechtigungen, bitte erlaube dem Shortcutter, DND zu überschreiben.</string>
+    <string name="next_alarm">Nächster Alarm
         \n</string>
-    <string name="custom_1">Custom Tile
+    <string name="custom_1">Benutzerdef. Kachel
         \n1</string>
-    <string name="custom_2">Custom Tile
+    <string name="custom_2">Benutzerdef. Kachel
         \n2</string>
-    <string name="custom_3">Custom Tile
+    <string name="custom_3">Benutzerdef. Kachel
         \n3</string>
-    <string name="custom_4">Custom Tile
+    <string name="custom_4">Benutzerdef. Kachel
         \n4</string>
-    <string name="custom_5">Custom Tile
+    <string name="custom_5">Benutzerdef. Kachel
         \n5</string>
-    <string name="custom_6">Custom Tile
+    <string name="custom_6">Benutzerdef. Kachel
         \n6</string>
-    <string name="custom_7">Custom Tile
+    <string name="custom_7">Benutzerdef. Kachel
         \n7</string>
-    <string name="custom_8">Custom Tile
+    <string name="custom_8">Benutzerdef. Kachel
         \n8</string>
-    <string name="custom_9">Custom Tile
+    <string name="custom_9">Benutzerdef. Kachel
         \n9</string>
-    <string name="custom_10">Custom Tile
+    <string name="custom_10">Benutzerdef. Kachel
         \n10</string>
-    <string name="custom_11">Custom Tile
+    <string name="custom_11">Benutzerdef. Kachel
         \n11</string>
-    <string name="custom_12">Custom Tile
+    <string name="custom_12">Benutzerdef. Kachel
         \n12</string>
-    <string name="custom_url1">Custom URL
+    <string name="custom_url1">Benutzerdef. URL
         \n1</string>
-    <string name="custom_url2">Custom URL
+    <string name="custom_url2">Benutzerdef. URL
         \n2</string>
-    <string name="custom_url3">Custom URL
+    <string name="custom_url3">Benutzerdef. URL
         \n3</string>
-    <string name="custom_url4">Custom URL
+    <string name="custom_url4">Benutzerdef. URL
         \n4</string>
-    <string name="vibrate">Vibrate</string>
-    <string name="ring">Ring</string>
-    <string name="silent">Silent</string>
-    <string name="screen_timeout">Timeout
+    <string name="vibrate">Vibrieren</string>
+    <string name="ring">Klingeln</string>
+    <string name="silent">Stumm</string>
+    <string name="screen_timeout">Auszeit
         \n</string>
-    <string name="additonal_perms_req">Additional Permissions Required</string>
+    <string name="additonal_perms_req">Zusätzliche Berechtigungen erforderlich</string>
     <string name="notification_policy_message">Some tiles require the ability to modify notification settings, as we cannot request these permissions in the normal fasion, you will need to enable them.
         \n\nClick proceed and you will be taken to the relevant screen.\n</string>
     <string name="proceed">Proceed</string>
