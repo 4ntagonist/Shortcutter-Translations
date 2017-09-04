@@ -103,43 +103,43 @@
     <string name="screen_timeout">Auszeit
         \n</string>
     <string name="additonal_perms_req">Zusätzliche Berechtigungen erforderlich</string>
-    <string name="notification_policy_message">Some tiles require the ability to modify notification settings, as we cannot request these permissions in the normal fasion, you will need to enable them.
-        \n\nClick proceed and you will be taken to the relevant screen.\n</string>
-    <string name="proceed">Proceed</string>
-    <string name="system_perms_message">Some tiles require the ability to write system settings, as we cannot request these permissions in the normal fasion, you will need to enable them.
-        \n\nClick proceed and you will be taken to the relevant screen.\n</string>
-    <string name="press_back">Press back to return once enabled.</string>
-    <string name="credits">Credits</string>
-    <string name="full_title">Shortcutter Quick Settings</string>
-    <string name="thanks_for_support">"   Thanks for your support!  :)"</string>
+    <string name="notification_policy_message">Einige Kacheln erfordern die Möglichkeit Benachrichtigungseinstellungen zu ändern, da wir diese Berechtigungen nicht in der normalen Fassung anfordern können, musst du diese aktivieren.
+        \n\nKlicke Fortfahren und du wirst auf den entsprechenden Bildschirm weitergeleitet.\n</string>
+    <string name="proceed">Fortfahren</string>
+    <string name="system_perms_message">Einige Kacheln erfordern die Möglichkeit System Einstellungen zu ändern, da wir diese Berechtigungen nicht in der normalen Fassung anfordern können, musst du diese aktivieren.
+        \n\nKlicke Fortfahren und du wirst auf den entsprechenden Bildschirm weitergeleitet.\n</string>
+    <string name="press_back">Drücke die Zurück Taste, sobald sie aktiviert ist.</string>
+    <string name="credits">Danksagung</string>
+    <string name="full_title">Shortcutter Schnelleinstellungen</string>
+    <string name="thanks_for_support">"   Danke für Eure Unterstützung!  :)"</string>
     <string name="premuim">Shortcutter Premium</string>
-    <string name="confirm_disable_root">You are about to disable all ROOT features, this will remove any QS tiles that require ROOT access.
-        \n\nDo you want to proceed?</string>
-    <string name="please_confirm">Please Confirm</string>
-    <string name="nothing_selected">Nothing Selected</string>
-    <string name="selected">"Selected: "</string>
-    <string name="camera">Camera</string>
-    <string name="flashlight">Flashlight</string>
-    <string name="ambient_disabled">Doze
-        \nDisabled</string>
-    <string name="ambient_enabled">Doze
-        \nEnabled</string>
-    <string name="ambient_display">Doze Display</string>
-    <string name="reboot_now">Reboot Now?</string>
+    <string name="confirm_disable_root">Du bist dabei alle Root Funktionen zu deaktivieren, das wird jegliche QS-Kacheln entfernen die Root Zugang benötigen.
+        \n\nMöchtest du fortfahren?</string>
+    <string name="please_confirm">Bitte bestätigen</string>
+    <string name="nothing_selected">Nichts ausgewählt</string>
+    <string name="selected">"Ausgewählt: "</string>
+    <string name="camera">Kamera</string>
+    <string name="flashlight">Taschenlampe</string>
+    <string name="ambient_disabled">Schlummern
+        \nDeaktiviert</string>
+    <string name="ambient_enabled">Schlummern
+        \nAktiviert</string>
+    <string name="ambient_display">Schlummer Bildschirm</string>
+    <string name="reboot_now">Jetzt neu starten?</string>
     <string name="systemuiTuner">SystemUI
         \n Tuner</string>
-    <string name="root_available">Your device appears to be rooted.
-        \n Toggle me for more QS Tiles!</string>
-    <string name="available_in_prem1">Limited features &amp; a notification every 50 clicks.</string>
-    <string name="available_in_prem3">Go Premium now &amp; show your support!</string>
+    <string name="root_available">Dein Gerät scheint gerootet zu sein.
+        \n Schalt mich um für mehr QS-Kacheln!</string>
+    <string name="available_in_prem1">Limitierte Funktionen &amp; eine Benachrichtigung alle 50 Klicks.</string>
+    <string name="available_in_prem3">Hohle jetzt Premium &amp; zeige deine Unterstützung!</string>
     <string name="ad_supported">Shortcutter FREE</string>
-    <string name="disabled">Disabled</string>
-    <string name="enabled">Enabled</string>
-    <string name="app_info">App Information</string>
-    <string name="splash_3">Custom Quick Settings for Android</string>
-    <string name="by_leedroid">Created By LeeDrOiD</string>
-    <string name="welcome_to_shortcutter">Welcome To</string>
-    <string name="Immersive">Immersive Mode</string>
+    <string name="disabled">Deaktiviert</string>
+    <string name="enabled">Aktiviert</string>
+	<string name="app_info">App Information</string>
+    <string name="splash_3">Benutzerdef. Schnelleinstellung für Android</string>
+    <string name="by_leedroid">Entwickelt von LeeDrOiD</string>
+    <string name="welcome_to_shortcutter">Willkommen zu</string>
+    <string name="Immersive">Vollbildmodus</string>
     <string name="manual_secure_summary">Grant Shortcutter access to Settings Secure to enable additional Tiles.
         \n(A PC is required)</string>
     <string name="secure_access_enabled">Secure Access Enabled</string>
