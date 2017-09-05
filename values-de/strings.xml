@@ -354,7 +354,7 @@
         \n - Benötigt für Bildschirmfilter &amp; Bildschirmecken - diese Dienste werden beendet wenn Apps installiert werden &amp; Berechtigungen werden gewährt.
         \n\nKlick fortfahren, gehe zu Shortcutter &amp; aktiviere den Dienst.\n\n</string>
     <string name="split_sum">Schalte geteilter Bildschirm / Mehrfachfenster Modus</string>
-    <string name="power_sum">Öffne das Power Menü</string>
+    <string name="power_sum">Öffnet das Power Menü</string>
     <string name="admin_needed">Adminrechte erforderlich</string>
     <string name="admin_needed_long">Shortcutter benötigt Adminrechte für:\n\n
         \u2022Gerätebildschirm sperren
